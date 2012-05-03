@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/cristianoperez/Downloads/hibernate-validator-4.3.0.CR1/dist/hibernate-validator-4.3.0.CR1.jar"/>
+	<classpathentry kind="lib" path="/Users/cristianoperez/Downloads/hibernate-validator-4.3.0.CR1/dist/lib/required/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="/Users/cristianoperez/Downloads/hibernate-validator-4.3.0.CR1/dist/lib/required/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
